@@ -1,6 +1,6 @@
 # wordle-in-terminal
 
-(Learn how to develop the game from those 2 videos)[https://www.youtube.com/watch?v=YOxmUWZxUvI&list=PLOkVupluCIjvunQvPcmPAk811H82rx9Xh]
+[Learn how to develop the game from those 2 videos](https://www.youtube.com/watch?v=YOxmUWZxUvI&list=PLOkVupluCIjvunQvPcmPAk811H82rx9Xh)
 
 This is the wordle game playable in Python
 
