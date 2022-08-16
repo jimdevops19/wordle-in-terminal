@@ -2,6 +2,8 @@ import random
 import sys
 from valid_words import valid_words
 
+
+#Comments Added
 CHOSEN_WORD = random.choice(valid_words)
 GUESSES_COUNT = 6
 
